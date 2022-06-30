@@ -12,8 +12,8 @@ import java.util.List;
 public class LojinhaApp {
     public static void main(String[] args) {
         Produto meuProduto = new Produto();
-        meuProduto.setNome("PlayStation4");
-        meuProduto.setValor(3444.44);
+        meuProduto.setNome("XBox");
+        meuProduto.setValor(5000);
         //meuProduto.setMarca("Sony");
         meuProduto.setTamanho(Tamanho.PEQUENO);
 
