@@ -28,7 +28,7 @@ public class Produto {
            this.valor = novoValor;
        }
        else{
-           throw new IllegalArgumentException("O valor deve ser maior que 0");
+           throw new IllegalArgumentException("O valor deverá ser maior que o número 0");
        }
     }
 
